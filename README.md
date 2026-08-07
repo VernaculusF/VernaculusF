@@ -6,7 +6,7 @@
 
 <img src="./ava.png" alt="Vernaculus" width="220" />
 
-I like building things that start as an idea, a messy workflow, or a research question and end up as software people can actually use.
+I mostly build tools, systems, and experiments that I would actually want to use myself — then make them solid enough to stand on their own.
 
 </div>
 
