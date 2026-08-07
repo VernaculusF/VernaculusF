@@ -25,6 +25,6 @@ That range matters to me more than fitting into one narrow category. A project m
 
 ## Across the stack
 
-I work mostly with **Python, PyTorch, FastAPI, PostgreSQL, and Docker**, with **Kotlin Multiplatform, Compose, Flutter, and Dart** for application work. The stack changes with the problem; the aim stays the same: build something clear, dependable, and useful.
+I work mostly with **Python, PyTorch, FastAPI, PostgreSQL, Docker, and API integrations**, and I also have experience with **Kotlin Multiplatform, Compose, Flutter, Dart, and Telegram-first product workflows**. The stack changes with the problem; the aim stays the same: build something clear, dependable, and useful.
 
 I value reproducible experiments, explicit verification, and documentation that explains what a project actually does. I like software that survives contact with reality and still feels clean a month later.
