@@ -4,6 +4,8 @@
 
 ### ML systems · Automation · Product engineering
 
+<img src="./ava.png" alt="Vernaculus" width="220" />
+
 I like building things that start as an idea, a messy workflow, or a research question and end up as software people can actually use.
 
 </div>
